@@ -1,4 +1,4 @@
-# 🚌 Bus Explorer - Frontend
+# 🚌 Bus (reto civa)- Frontend
 
 Este es el **frontend** de una aplicación web para gestionar y visualizar información de buses, desarrollado con **React.js**. Consume una API REST creada con **Spring Boot** que ofrece paginación y detalles individuales por cada bus.
 
